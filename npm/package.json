@@ -27,5 +27,9 @@
   "homepage": "https://github.com/mcp-tool-shop/a11y-ci#readme",
   "engines": {
     "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }
