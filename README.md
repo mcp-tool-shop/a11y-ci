@@ -1,3 +1,8 @@
+> ⚠️ **This repository has moved to [accessibility-suite](https://github.com/mcp-tool-shop/accessibility-suite)**
+> Source now lives at: `src/a11y-ci/`
+
+---
+
 # a11y-ci
 
 ![gate](https://img.shields.io/badge/gate-strict-blue)
